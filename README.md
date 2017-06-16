@@ -1,3 +1,4 @@
+title:  Welcome to DamianBobs's homepage!
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/DamianBobs/DamianBobs.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
